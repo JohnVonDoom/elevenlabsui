@@ -273,10 +273,6 @@ If you cannot access localhost:
 
 Contributions welcome. Feel free to report bugs, suggest features, or submit pull requests.
 
-## License
-
-[Add your license here - MIT, GPL v3, etc.]
-
 ## Disclaimer
 
 This is an unofficial client for ElevenLabs. You need your own ElevenLabs API key and account. Respect ElevenLabs' terms of service and rate limits.
